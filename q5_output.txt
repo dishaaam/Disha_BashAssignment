@@ -6,7 +6,7 @@ System Users (UID < 1000): 55
 Regular Users (UID >= 1000): 3
 Currently Logged In: 1
 
-=== USER DETAILS (Regular Users) ===
+=== USER DETAILS===
 Username        UID    Home Directory       Shell           Last Login          
 ---------------------------------------------------------------------------------------
 nobody          65534  /nonexistent         /usr/sbin/nologin Never logged in     
