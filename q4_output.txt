@@ -1,0 +1,20 @@
+===== AUTOMATED BACKUP SCRIPT =====
+
+
+Backup Type:
+1. Simple copy
+2. Compressed archive (tar.gz)
+
+[*] Starting backup...
+[*] Source: q4dir
+[*] Destination: disham
+[*] Compressed archive created...
+
+Backup completed successfully!
+
+===== Backup Details =====
+File: backup_20260224_140202.tar.gz
+Location: disham
+Size: 4.0K
+Time taken: 0 seconds
+
