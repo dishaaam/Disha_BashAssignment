@@ -1,0 +1,26 @@
+
+===== LOG FILE ANALYSIS =====
+Log File: q3_access.log
+
+Total Entries: 9
+
+Unique IP Addresses:
+192.168.1.10
+192.168.1.20
+192.168.1.30
+192.168.1.40
+Total Unique IPs: 4
+
+Status Code Summary:
+      9 
+
+Top 3 IP Addresses:
+1) 192.168.1.40 - 3 requests
+2) 192.168.1.10 - 3 requests
+3) 192.168.1.20 - 2 requests
+
+Possible Security Threats:
+IP: 192.168.1.40  - 403 Count: 3
+
+CSV report generated: report.csv
+
