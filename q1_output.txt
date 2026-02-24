@@ -1,0 +1,21 @@
+---------------------------------------
+         SYSTEM INFORMATION
+---------------------------------------
+Username        : disham
+Hostname        : kali
+Date & Time     : Tue Feb 24 12:19:34 PM EST 2026
+OS              : Linux
+Current Dir     : /home/disham
+Home Dir        : /home/disham
+Users Logged In : 1
+Uptime          :  12:19:34 up  6:36,  1 user,  load average: 1.00, 0.75, 1.00
+-------------------------------------
+Disk Usage (Root):
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        79G   17G   58G  23% /
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           1.9Gi       1.7Gi       103Mi        68Mi       360Mi       242Mi
+Swap:          953Mi       941Mi        12Mi
+------------------------------------
