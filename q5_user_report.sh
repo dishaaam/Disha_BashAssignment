@@ -19,7 +19,7 @@ echo ""
 
 #user details
 
-echo "=== USER DETAILS (Regular Users) ==="
+echo "=== USER DETAILS==="
 printf "%-15s %-6s %-20s %-15s %-20s\n" "Username" "UID" "Home Directory" "Shell" "Last Login"
 echo "---------------------------------------------------------------------------------------"
 
